@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gamal</h1>
 <h3 align="center">A passionate .NET developer from Egypt</h3>
 
-- 📫 How to reach me **mahmoooudgamal@gmail.com**
+- 📫 How to reach me **mahmooudgamal@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
